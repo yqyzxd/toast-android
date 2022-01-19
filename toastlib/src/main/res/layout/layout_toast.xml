@@ -20,6 +20,8 @@
             android:text="toast"
             android:paddingLeft="24dp"
             android:paddingRight="24dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
             android:gravity="center"
             android:textSize="14sp"
             android:textColor="#ffffff"
